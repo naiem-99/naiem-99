@@ -2,7 +2,7 @@
 
 **Cancer multi-omics · Bioinformatics & wet lab** · Research Officer at [icddr,b](https://www.icddrb.org/) · Dhaka, Bangladesh
 
-I study cancer through multi-omics: single-cell, spatial and bulk transcriptomics, TCGA genomics and copy-number analysis of the tumour microenvironment. I combine bioinformatics with hands-on wet-lab experience, and apply the same toolkit to infectious disease research on *Vibrio cholerae* and vibriophages at icddr,b.
+I study cancer through multi-omics: single-cell, spatial and bulk transcriptomics, TCGA genomics and copy-number analysis of the tumour microenvironment. I combine bioinformatics with hands-on wet-lab experience. I also apply my expertise to infectious disease research on *Vibrio cholerae* and vibriophages at icddr,b.
 
 ## Research focus
 
