@@ -23,7 +23,7 @@ I study cancer through multi-omics: single-cell and bulk transcriptomics, TCGA g
 
 | Project | What it does | Methods |
 | --- | --- | --- |
-| [V.cholerae-Transcriptomics](https://github.com/naiem-99/V.cholerae-Transcriptomics) | Niche-specific *V. cholerae* O1 gene expression in stool vs vomit | limma, PCA, KEGG pathway analysis |
+| [V.cholerae-Transcriptomics](https://github.com/naiem-99/V.cholerae-Transcriptomics) | Site-specific *V. cholerae* O1 gene expression in stool vs vomit | limma, PCA, KEGG pathway analysis |
 | [Vibrio_Phages_Genomic_Characterization](https://github.com/naiem-99/Vibrio_Phages_Genomic_Characterization) | Specificity and genomic characterization of *V. cholerae* O1 and vibriophages isolated in 2024 | Comparative genomics |
 | [CRaTE-Study](https://github.com/naiem-99/CRaTE-Study) | Concordance of PCR-based assays within an evaluation of five commercial cholera rapid diagnostic tests | R, agreement statistics |
 
