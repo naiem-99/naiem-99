@@ -29,5 +29,5 @@ I study cancer through multi-omics: single-cell and bulk transcriptomics, TCGA g
 
 ## Methods
 
-- **Cancer omics & bioinformatics:** R · Seurat · inferCNV · CellChat · Monocle3 · CellTypist · limma · KEGG pathway analysis · GEO · TCGA
+- **Cancer omics & bioinformatics:** R · Seurat · inferCNV · CellChat · Monocle3 · CellTypist · limma · maftools · ANNOVAR · KEGG pathway analysis · GEO · TCGA
 - **Wet lab:** PCR / qPCR / RT-qPCR · DNA/RNA extraction · NGS library preparation · bacterial culture · phage isolation · ELISA and immunoassays
