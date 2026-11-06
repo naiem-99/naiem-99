@@ -6,7 +6,7 @@ I study cancer through multi-omics: single-cell and bulk transcriptomics, TCGA g
 
 ## Research focus
 
-- **Cancer multi-omics** — single-cell transcriptomics, bulk RNA-seq, TCGA genomics, copy-number inference, tumor microenvironment
+- **Cancer multi-omics** — single-cell transcriptomics, bulk RNA-seq, WGS, targeted NGS, TCGA genomics, copy-number inference, tumor microenvironment
 - **Microbial genomics & transcriptomics** — *Vibrio cholerae* O1, vibriophages, gut microbiome, metagenomics
 - **Diagnostics & vaccinology** — evaluation of cholera rapid diagnostic tests and PCR assays
 
