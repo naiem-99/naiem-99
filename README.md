@@ -16,7 +16,7 @@ I study cancer through multi-omics: single-cell, spatial and bulk transcriptomic
 
 | Project | What it does | Methods |
 | --- | --- | --- |
-| [ccRCC-scRNAseq-atlas-2026](https://github.com/naiem-99/ccRCC-scRNAseq-atlas-2026) | Single-cell atlas of clear cell renal cell carcinoma: preprocessing, annotation and CNV inference | Seurat, inferCNV |
+| [ccRCC-scRNAseq-atlas-2026](https://github.com/naiem-99/ccRCC-scRNAseq-atlas-2026) | Exploration of tumor microenvironment heterogeneity of clear cell renal cell carcinoma | Seurat, inferCNV |
 | [IDH-mutant-LGG](https://github.com/naiem-99/IDH-mutant-LGG) | Spatially restricted niches and hypoxia-associated transcriptional plasticity in IDH-mutant glioma progression | R, TCGA |
 
 ### Infectious disease genomics
