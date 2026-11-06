@@ -12,14 +12,14 @@ I study cancer through multi-omics: single-cell and bulk transcriptomics, TCGA g
 
 ## Selected projects
 
-### Cancer omics
+### Cancer biology research
 
 | Project | What it does | Methods |
 | --- | --- | --- |
 | [ccRCC-scRNAseq-atlas-2026](https://github.com/naiem-99/ccRCC-scRNAseq-atlas-2026) | Exploration of tumor microenvironment heterogeneity of clear cell renal cell carcinoma | Seurat, inferCNV |
 | [IDH-mutant-LGG](https://github.com/naiem-99/IDH-mutant-LGG) | Spatially restricted niches and hypoxia-associated transcriptional plasticity in IDH-mutant glioma progression | R, TCGA |
 
-### Infectious disease genomics
+### Infectious disease research
 
 | Project | What it does | Methods |
 | --- | --- | --- |
